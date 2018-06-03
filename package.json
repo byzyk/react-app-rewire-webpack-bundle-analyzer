@@ -13,8 +13,7 @@
   "keywords": [
     "react",
     "react-app-rewired",
-    "momentjs",
-    "moment-locales-plugin",
+    "webpack-bundle-analyzer",
     "webpack"
   ],
   "author": "Bohdan Khodakivskyi <bohdan.kh@gmail.com> (https://bohdan-khodakivskyi.com)",
