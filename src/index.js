@@ -1,11 +1,11 @@
-const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer')
+const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer');
 
 function rewireWebpackBundleAnalyzer(config, env, options = {}) {
   config.plugins = (config.plugins || []).concat([
-    new BundleAnalyzerPlugin(options)
-  ])
+    new BundleAnalyzerPlugin(options),
+  ]);
 
-  return config
+  return config;
 }
 
-module.exports = rewireWebpackBundleAnalyzer
+module.exports = rewireWebpackBundleAnalyzer;
