@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/byzyk/react-app-rewire-webpack-bundle-analyzer#readme",
   "dependencies": {
-    "webpack-bundle-analyzer": "^2.13.1"
+    "webpack-bundle-analyzer": "^3.4.1"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
