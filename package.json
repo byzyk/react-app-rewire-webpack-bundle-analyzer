@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-webpack-bundle-analyzer",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Add webpack-bundle-analyzer to a react-app-rewired config.",
   "main": "./src/index.js",
   "scripts": {
